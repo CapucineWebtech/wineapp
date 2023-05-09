@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WineApp</string>
+    <string name="error">Une erreur c\'est produite. Essayez de redémarrer l\'application. Si l\'erreur persiste, déconnectez et reconnectez le wifi.</string>
+    <string name="error_hint">Une erreur c\'est produite, vous n\'aurez pas l\'indice. Redémarrez l\'application.</string>
+    <string name="bienvenue">Bienvenue !</string>
+    <string name="code">Code</string>
+    <string name="valider">Valider</string>
+    <string name="error_code">Code incorrecte</string>
+    <string name="precedentes_commandes">Vos précédentes commandes :</string>
+    <string name="commandes">Commandes</string>
+    <string name="revenir_au_code">Revenir au code</string>
+</resources>
